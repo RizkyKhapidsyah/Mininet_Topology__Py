@@ -1,6 +1,7 @@
 # Mininet_Topology__Py
-Skrip Python untuk mengatur topologi mininet di dalam CyberOps VM. 
-<br>
+Skrip Python untuk mengatur topologi mininet di dalam CyberOps VM. <br><br>
+Catatan: HANYA UNTUK PEMBELAJARAN
+<br><br>
 The CyberOps VM termasuk script Python yang, ketika Anda menjalankannya, akan mengatur dan mengkonfigurasi perangkat yang ditunjukkan pada gambar di atas. Anda kemudian akan memiliki akses ke empat host, switch, dan router di dalam satu VM Anda. Ini akan memungkinkan Anda untuk mensimulasikan berbagai protokol jaringan dan layanan tanpa harus mengkonfigurasi jaringan fisik perangkat. Misalnya, di Lab ini Anda akan menggunakan perintah ping antara dua host di topologi mininet dan menangkap ping mereka dengan Wireshark.
 Wireshark adalah software protokol Analyzer, atau "packet sniffer" aplikasi, digunakan untuk pemecahan masalah jaringan, analisis, Software dan protokol pengembangan, dan pendidikan. Sebagai aliran data perjalanan melalui jaringan, yang Sniffer "menangkap" setiap protokol data unit (PDU) dan dapat decode dan menganalisis isinya sesuai dengan RFC yang sesuai atau spesifikasi lainnya.
 Wireshark adalah alat yang berguna bagi siapa saja yang bekerja dengan jaringan untuk analisis data dan pemecahan masalah. Anda akan menggunakan Wireshark untuk menangkap paket data ICMP.
